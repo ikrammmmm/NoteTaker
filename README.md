@@ -1,8 +1,8 @@
 # NoteTaker App
-Web app to write write and save the notes for the small business owners<br><br>
+Web app to write write and save the notes for the small business owners<br>
+Click [here](https://note-taker-apz.herokuapp.com/notes) to use the web app.
+<br><br>
 To setup locally install nodejs and npm then run following:
-
-Click [here]('https://note-taker-apz.herokuapp.com/notes') to use the web app.
 ```
 npm install
 node server.js
